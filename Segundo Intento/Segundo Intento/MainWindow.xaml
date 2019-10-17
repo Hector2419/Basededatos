@@ -43,7 +43,7 @@
             </WrapPanel>
             <WrapPanel>
                 <TextBlock Text="Dirección : "/>
-                <TextBox Name="txtDireccion" TextWrapping="Wrap" AcceptsReturn="True" Height="75" />
+                <TextBox Name="txtDireccion" TextWrapping="Wrap" AcceptsReturn="True" Height="75" Width="268" />
             </WrapPanel>
             <WrapPanel Margin="0" HorizontalAlignment="Center" Height="59">
                 <Button Name="btnNuevo" Content="Nuevo" FontSize="25" Width="120" Margin="5" Click="BtnNuevo_Click" />
